@@ -33,3 +33,15 @@ Based on these results , we can say:
 *  Maximum tepretures are also in the same range of being in 80's.
 
 ## Summary:
+
+From the results, we can conclude that it is sustainable year-round to open the surf and ice cream shop business because we have identified that the average temperature in the summer (June) was 75°F and 71°F in the winter (December).  However, we ran two additional quries to confirm our finding based on precipitation results to check the soak out days. Our analysis shows the average precipitation in those months as follow:
+
+* June at 14%
+* December at 22% 
+
+![Screen Shot 2022-04-17 at 12 23 10 PM](https://user-images.githubusercontent.com/98566486/163723423-868835d2-2b48-458b-80a0-4da064136493.png)
+
+
+
+![Screen Shot 2022-04-17 at 12 24 19 PM](https://user-images.githubusercontent.com/98566486/163723457-a2c7f317-490a-4d84-a1cc-2db0f490b93e.png)
+
